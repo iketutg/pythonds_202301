@@ -1,9 +1,9 @@
-.youtube.com	True	/	True	1712840120.601111	__Secure-3PSID	TwjfuhW7XowO-3HxacBqqUf8tIqMit4-ihvUPtBXDEzFsUvz26wOXJZtfVB950bvze1V2A.
-.youtube.com	True	/	True	1678281919.217195	GPS	1
-.youtube.com	True	/	True		YSC	aw60u8CZBBQ
+.youtube.com	True	/	True	1712840120	__Secure-3PSID	TwjfuhW7XowO-3HxacBqqUf8tIqMit4-ihvUPtBXDEzFsUvz26wOXJZtfVB950bvze1V2A.
+.youtube.com	True	/	True	1678281919	GPS	1
+.youtube.com	True	/	True	0   YSC	aw60u8CZBBQ
 .youtube.com	True	/	False	1678280731	CONSISTENCY	AEhaiyt3LullAsKX7M8JWrHexqY-gNutTqMVFDfHrghxH0uw1yunbj7VfHxvsV78GlMZhJz5YR-lin5XrK7UuN-vs_R3brR4o480iDFo9ytTc0NFGoQ1AAs0bHam3_WqAkMggV4CzgPmDN0K4RXI83s
-.youtube.com	True	/	False	1712840120.601171	__Secure-3PAPISID	77b7540UHJeIst-A/ALT0GrTmGE9Sj7a2f
-.youtube.com	True	/	True	1709816345.624601	__Secure-3PSIDCC	AFvIBn_auwUwn5UUlbx14lr2HNGc5uUlcnror8T8vjkr0oP-_Kcf53g1XZAU3XYiaYY5D5htnw
-.youtube.com	True	/	True	1712840120.736299	LOGIN_INFO	AFmmF2swRQIgO5QeK9O_IzQAByciauexRadDfIPjaQ7tpRs6mJcFRc8CIQDOjXyImIUTVVmukdpYfScZ7-gBELKl3YicXx_nhdAujg:QUQ3MjNmemxOTW42Z3FxWUQwUUFJaEUtOG9CN21sQzQ2RlU4d2R5bElhYWhEeEJaZHVjcV9tR1UweU15c1dYUnowc05YakgxSGRZaS15WllxcFJLYjhGZWRlcUdEcVhTYTUxa0RtN1dHa0QyRFpwNjhJcHd6dmlOdW5YM1oyR2hxZFRZVGI1QXBwZ2lIWTJvbktBVDNhNkhpN205SDdwUU9n
-.youtube.com	True	/	False	1712840129.012956	PREF	tz=Asia.Jakarta&f4=4000000
-.youtube.com	True	/	True	1693832119.217305	VISITOR_INFO1_LIVE	GkhXo8D55k4
+.youtube.com	True	/	False	1712840120	__Secure-3PAPISID	77b7540UHJeIst-A/ALT0GrTmGE9Sj7a2f
+.youtube.com	True	/	True	1709816345	__Secure-3PSIDCC	AFvIBn_auwUwn5UUlbx14lr2HNGc5uUlcnror8T8vjkr0oP-_Kcf53g1XZAU3XYiaYY5D5htnw
+.youtube.com	True	/	True	1712840120	LOGIN_INFO	AFmmF2swRQIgO5QeK9O_IzQAByciauexRadDfIPjaQ7tpRs6mJcFRc8CIQDOjXyImIUTVVmukdpYfScZ7-gBELKl3YicXx_nhdAujg:QUQ3MjNmemxOTW42Z3FxWUQwUUFJaEUtOG9CN21sQzQ2RlU4d2R5bElhYWhEeEJaZHVjcV9tR1UweU15c1dYUnowc05YakgxSGRZaS15WllxcFJLYjhGZWRlcUdEcVhTYTUxa0RtN1dHa0QyRFpwNjhJcHd6dmlOdW5YM1oyR2hxZFRZVGI1QXBwZ2lIWTJvbktBVDNhNkhpN205SDdwUU9n
+.youtube.com	True	/	False	1712840129	PREF	tz=Asia.Jakarta&f4=4000000
+.youtube.com	True	/	True	1693832119	VISITOR_INFO1_LIVE	GkhXo8D55k4
